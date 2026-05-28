@@ -27,13 +27,13 @@ This folder contains all materials for Day 1 of the GDSS SQL workshop. The sessi
 | Time | Module |
 |---|---|
 | 0:00 – 0:15 | Welcome, Setup & Icebreaker |
-| 0:15 – 0:45 | Module 1 — Relational Databases & Data Organisation |
-| 0:45 – 1:15 | Module 2 — Tables, Data Types & Schema Design |
+| 0:15 – 0:45 | Module 1: Relational Databases & Data Organisation |
+| 0:45 – 1:15 | Module 2: Tables, Data Types & Schema Design |
 | 1:15 – 1:30 | Break |
-| 1:30 – 2:10 | Module 3 — Introduction to SQL Queries |
-| 2:10 – 2:40 | Module 4 — Query Style, Distinct, Aliasing & SQL Flavours |
-| 2:40 – 2:55 | Module 5 — Hands-On Practice |
-| 2:55 – 3:00 | Day 2 Preview & Close |
+| 1:30 – 2:10 | Module 3: Introduction to SQL Queries |
+| 2:10 – 2:40 | Module 4: Query Style, Distinct, Aliasing & SQL Flavours |
+| 2:40 – 2:55 | Module 5: Aggregations |
+| 2:55 – 3:00 | Hands-On Practice |
 
 ---
 

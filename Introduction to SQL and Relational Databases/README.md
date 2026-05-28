@@ -70,7 +70,7 @@ By the end of this session, participants will be able to:
 
 ---
 
-## 📫 Facilitators
+## Facilitators
 **Eric Inkoom Ayitey**  
 📧 [Email](mailto:ericinkoomayitey@gmail.com)  
 🌍 [LinkedIn](https://www.linkedin.com/in/eric-inkoom-ayitey/)
